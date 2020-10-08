@@ -3,3 +3,6 @@ textarea{
   width:100%;
   display:block;
 }
+button{
+  margin-top: 1rem;
+}
